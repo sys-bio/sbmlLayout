@@ -1,0 +1,11 @@
+site_name: SBMLLayout
+site_url: 
+site_description: Description...
+site_author:      Jin Xu
+ 
+docs_dir: '_build'
+
+theme: readthedocs
+
+nav:
+    - Home: html/index.html
